@@ -9,5 +9,5 @@ const vastaus = `${asteetC} astetta celsiusta on
  ${asteetF} astetta farenheittia ja ${asteetK}
  astetta kelviniä`;
 
-//tulostus
+// tulostus
 document.getElementById('target').innerHTML = vastaus;
